@@ -4,7 +4,11 @@ A Windows Forms utility that schedules a **power state change** for the local ma
 
 
 
-https://github.com/user-attachments/assets/fbbde765-49fa-425d-b587-f067674afdb1
+
+
+https://github.com/user-attachments/assets/74444cf6-74db-48d0-8f04-f1bf39592563
+
+
 
 
 ---
